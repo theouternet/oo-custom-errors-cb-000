@@ -7,7 +7,7 @@ xx
 ## Introduction
 
 Ruby has a hierarchy of error, or `Exception`, classes, all of which inherit
-from the Exception class. You'll become familiar with these error types:
+from the Exception class. You'll become familiar with these errorr types:
 
 * `NoMethodError`
 * `ArgumentError`
